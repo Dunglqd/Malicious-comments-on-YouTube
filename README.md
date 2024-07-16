@@ -43,3 +43,6 @@ streamlit run app.py
 
 ## References
 https://github.com/sonlam1102/vihsd.git
+Hoàng Tiến Đạt
+Hoàng Ngọc Hồng
+Nguyễn Thành Huy
