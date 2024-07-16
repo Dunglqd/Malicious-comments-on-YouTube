@@ -1,0 +1,13 @@
+pytchat
+pandas 
+kafka-python
+datetime
+numpy
+transformers
+vncorenlp
+torch
+pyspark
+findspark
+pyvi
+streamlit
+matplotlib
